@@ -1,7 +1,15 @@
 [
   {
     "description": "At the entrance of the spire is the infamous giant troll, a troll that was infused with a dragon's claw imbued in dark energy. He tells you that no one is allowed entry into the tower here. You thought to yourself, you can try to fight him, but in the distance you can see a cave that may led to the tower.",
-    "option-1": "Fight the Giant Troll",
-    "option-2": "Flee for the cave"
+    "optionA": "Fight the Giant Troll",
+    "optionB": "Flee for the cave",
+    "image":"https://hatrabbits.com/wp-content/uploads/2016/04/illustratie-giraf.jpg"
+  },
+  {
+    "description": "You tried to fight the troll, but he just seemed too strong. But as you were fighting, you found an opening between his legs and ran into the spire. A chase began between you and the giant troll. Little did you know that behind him was an old dragon, chained up and sleeping in the spire. Will you try and seek the dragon's aid in despiration or continue to run from the Giant troll?",
+    "optionA": "Seek aid from the dragon",
+    "optionB": "Continue to run",
+    "image":"https://hatrabbits.com/wp-content/uploads/2016/04/illustratie-giraf.jpg",
+    "key": "optionA_1"
   }
 ]

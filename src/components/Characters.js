@@ -1,4 +1,5 @@
 import React from "react";
+import "../styles.css";
 import data from "../data/character-info.json";
 
 function CharSelect() {
@@ -10,8 +11,10 @@ function CharSelect() {
         return (
           <div>
             <h2> {character.name} </h2>
-            <img src={character.image} />
-            <h3> {character.description} </h3>
+            <div className="tooltip">
+              <img className="character" src={character.image}/>
+              <h3 className="tooltiptext"> {character.description} </h3>
+            </div>
           </div>
         );
       })}

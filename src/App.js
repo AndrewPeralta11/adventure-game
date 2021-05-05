@@ -6,7 +6,7 @@ import Scenario from "./components/Scenario";
 export default function App() {
   return (
     <div className="App">
-      <CharSelect/>
+      {/* <CharSelect/> */}
       <Scenario/>
     </div>
   
