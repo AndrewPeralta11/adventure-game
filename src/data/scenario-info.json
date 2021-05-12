@@ -2,14 +2,32 @@
   {
     "description": "At the entrance of the spire is the infamous giant troll, a troll that was infused with a dragon's claw imbued in dark energy. He tells you that no one is allowed entry into the tower here. You thought to yourself, you can try to fight him, but in the distance you can see a cave that may led to the tower.",
     "optionA": "Fight the Giant Troll",
+    "optionA_even": 1,
+    "optionA_odd": 2,
     "optionB": "Flee for the cave",
-    "image":"https://hatrabbits.com/wp-content/uploads/2016/04/illustratie-giraf.jpg"
+    "optionB_even": 1,
+    "optionB_odd": 2,
+    "image": "https://hatrabbits.com/wp-content/uploads/2016/04/illustratie-giraf.jpg"
   },
   {
     "description": "You tried to fight the troll, but he just seemed too strong. But as you were fighting, you found an opening between his legs and ran into the spire. A chase began between you and the giant troll. Little did you know that behind him was an old dragon, chained up and sleeping in the spire. Will you try and seek the dragon's aid in despiration or continue to run from the Giant troll?",
     "optionA": "Seek aid from the dragon",
     "optionB": "Continue to run",
-    "image":"https://hatrabbits.com/wp-content/uploads/2016/04/illustratie-giraf.jpg",
-    "key": "optionA_1"
+    "image": "https://hatrabbits.com/wp-content/uploads/2016/04/illustratie-giraf.jpg",
+    "key": ""
+  },
+  {
+    "description": "After defeating the Giant Troll, you ripped out the dragon's claw from within, and placed it in you bag. Moving along through the spire, your eyes catch a dragon sleeping within a cage, locked. The dragon awakens and tells you that he was trapped here by the wizard and needs his claw of power back to escape. Will you help the dragon or leave them here to rot?",
+    "optionA": "Help the Dragon",
+    "optionB": "Continue along your journey",
+    "image": "https://hatrabbits.com/wp-content/uploads/2016/04/illustratie-giraf.jpg",
+    "key": "optionA_2"
+  },
+  {
+    "description": "You put up o",
+    "optionA": "Help the Dragon",
+    "optionB": "Continue along your journey",
+    "image": "https://hatrabbits.com/wp-content/uploads/2016/04/illustratie-giraf.jpg",
+    "key": "optionB_1"
   }
 ]
