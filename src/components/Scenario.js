@@ -6,8 +6,10 @@ function renderScenario(scenario, setsceneNumber, diceRoll) {
     <div>
       <div className="tooltiptext"> {scenario.description} </div>
       <img src={scenario.image} />
-      <button onClick={() => diceRoll("A")}> {scenario.optionA} </button>
-      <button onClick={() => diceRoll("B")}> {scenario.optionB} </button>
+      <div>
+        <button onClick={() => diceRoll("A")}> {scenario.optionA} </button>
+        <button onClick={() => diceRoll("B")}> {scenario.optionB} </button>
+      </div>
     </div>
   );
 }

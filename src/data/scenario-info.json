@@ -6,7 +6,7 @@
     "optionA_odd": 2,
     "optionB": "Flee for the cave",
     "optionB_even": 1,
-    "optionB_odd": 2,
+    "optionB_odd": 4,
     "image": "https://hatrabbits.com/wp-content/uploads/2016/04/illustratie-giraf.jpg"
   },
   {
@@ -29,5 +29,13 @@
     "optionB": "Continue along your journey",
     "image": "https://hatrabbits.com/wp-content/uploads/2016/04/illustratie-giraf.jpg",
     "key": "optionB_1"
+  },
+  {
+    "description": "You have died, test your luck and try again to reach your family",
+    "optionA": "Try Again",
+    "optionA_even": 0,
+    "optionA_odd": 0,
+    "image": "https://media.giphy.com/media/TbONGqAdpTWQW3Hz5V/giphy.gif",
+    "key": "death"
   }
 ]
