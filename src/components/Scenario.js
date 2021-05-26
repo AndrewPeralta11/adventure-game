@@ -5,10 +5,25 @@ function renderScenario(scenario, setsceneNumber, diceRoll) {
   return (
     <div>
       <div className="tooltiptext"> {scenario.description} </div>
-      <img src={scenario.image} />
+      <img className="imageStyles" src={scenario.image} />
       <div>
-        <button onClick={() => diceRoll("A")}> {scenario.optionA} </button>
-        <button onClick={() => diceRoll("B")}> {scenario.optionB} </button>
+        {scenario.key === "death" || scenario.key === "battle" ? (
+          <button className="buttonStyles" onClick={() => diceRoll("A")}>
+            {" "}
+            {scenario.optionA}{" "}
+          </button>
+        ) : (
+          <div>
+            <button className="buttonStyles" onClick={() => diceRoll("A")}>
+              {" "}
+              {scenario.optionA}{" "}
+            </button>
+            <button className="buttonStyles" onClick={() => diceRoll("B")}>
+              {" "}
+              {scenario.optionB}{" "}
+            </button>
+          </div>
+        )}
       </div>
     </div>
   );
@@ -28,7 +43,9 @@ function Scenario() {
     console.log(rollNum);
   }
   return (
-    <div>{renderScenario(data[sceneNumber], setsceneNumber, diceRoll)}</div>
+    <div className="container">
+      {renderScenario(data[sceneNumber], setsceneNumber, diceRoll)}
+    </div>
   );
 }
 

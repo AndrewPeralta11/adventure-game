@@ -12,23 +12,24 @@
   {
     "description": "You tried to fight the troll, but he just seemed too strong. But as you were fighting, you found an opening between his legs and ran into the spire. A chase began between you and the giant troll. Little did you know that behind him was an old dragon, chained up and sleeping in the spire. Will you try and seek the dragon's aid in despiration or continue to run from the Giant troll?",
     "optionA": "Seek aid from the dragon",
+    "optionA_even": 1,
+    "optionA_odd": 2,
     "optionB": "Continue to run",
+    "optionB_even": 4,
+    "optionB_odd": 2,
     "image": "https://hatrabbits.com/wp-content/uploads/2016/04/illustratie-giraf.jpg",
     "key": ""
   },
   {
     "description": "After defeating the Giant Troll, you ripped out the dragon's claw from within, and placed it in you bag. Moving along through the spire, your eyes catch a dragon sleeping within a cage, locked. The dragon awakens and tells you that he was trapped here by the wizard and needs his claw of power back to escape. Will you help the dragon or leave them here to rot?",
     "optionA": "Help the Dragon",
+    "optionA_even": 1,
+    "optionA_odd": 2,
     "optionB": "Continue along your journey",
+    "optionB_even": 1,
+    "optionB_odd": 2,
     "image": "https://hatrabbits.com/wp-content/uploads/2016/04/illustratie-giraf.jpg",
     "key": "optionA_2"
-  },
-  {
-    "description": "You put up o",
-    "optionA": "Help the Dragon",
-    "optionB": "Continue along your journey",
-    "image": "https://hatrabbits.com/wp-content/uploads/2016/04/illustratie-giraf.jpg",
-    "key": "optionB_1"
   },
   {
     "description": "You have died, test your luck and try again to reach your family",
@@ -37,5 +38,33 @@
     "optionA_odd": 0,
     "image": "https://media.giphy.com/media/TbONGqAdpTWQW3Hz5V/giphy.gif",
     "key": "death"
+  },
+  {
+    "description": "The dragon attacked you with its fiery breath and tried to burn you to a crisp  But luckly, you were able to put yourself out and run away. The troll way caught in the chaos, so it seemed that the dragon's anger worked in your favor. As you run up the tower, a door seems to block you from entering the wizard's chamber. It is locked up and the only way to unlock it is with a key, what shall you do?",
+    "optionA": "Look for a key",
+    "optionA_even": 1,
+    "optionA_odd": 2,
+    "optionB": "Break down the door",
+    "optionB_even": 1,
+    "optionB_odd": 4,
+    "image": "https://hatrabbits.com/wp-content/uploads/2016/04/illustratie-giraf.jpg"
+  },
+  {
+    "description": "The dragon looks at you and determines you are worthy. It burns the troll to a crisp and flies you to top of the tower. There you face the wizard Ganjudor as he looks towards you with a smile on his face. \"So, you released my brother from his cage, and you, brother, will fight along his side?\", yells Ganjudor. \"Yes, brother\" speaks the dragon, \"they will defeat you with me by their side and release this curse you have put upon me.\" As you prepare for battle you can see your family trapped in another cage, looking at you, hoping that you will win. You think to yourself, \"I will get them back!\" ",
+    "optionA": "Let the battle comence!",
+    "optionA_even": 1,
+    "optionA_odd": 2,
+    "image": "https://hatrabbits.com/wp-content/uploads/2016/04/illustratie-giraf.jpg",
+    "key": "battle"
+  },
+  {
+    "description": "You didn't think it possible, but you were able to run from everything and merely survived the onsldaught that occured. After all of that running, you felt exhuasted and could barely stand. You think to yourself how can you continue, and with that thought a fairy appears before you and comes to you with a deal. The fairy explains, \"My name is Apate, and I would like to aid you in your quest. In order for me to do so I would need some of your sweat in order to help your cause.\" What will you do?",
+    "optionA": "Give the fairy your sweat",
+    "optionA_even": 1,
+    "optionA_odd": 2,
+    "optionB": "Refuse",
+    "optionB_even": 1,
+    "optionB_odd": 4,
+    "image": "https://hatrabbits.com/wp-content/uploads/2016/04/illustratie-giraf.jpg"
   }
 ]
