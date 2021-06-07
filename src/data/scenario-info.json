@@ -7,7 +7,7 @@
     "optionB": "Flee for the cave",
     "optionB_even": 1,
     "optionB_odd": 4,
-    "image": "https://hatrabbits.com/wp-content/uploads/2016/04/illustratie-giraf.jpg"
+    "image": "https://lh3.googleusercontent.com/zZY8qZZAClGsLHlCtRyFT5CoLk9xjUuSlRJAC8qSOEt4lryl-tjlL0dLS8g2FPQJj81FBD7zoI1L7h3R9W_k1hSCCR5PFZ444Hid68t22ggJN5KC2Fnp_AI32WODp56ove6EnhkAbQ=w2400"
   },
   {
     "description": "You tried to fight the troll, but he just seemed too strong. But as you were fighting, you found an opening between his legs and ran into the spire. A chase began between you and the giant troll. Little did you know that behind him was an old dragon, chained up and sleeping in the spire. Will you try and seek the dragon's aid in despiration or continue to run from the Giant troll?",
@@ -40,7 +40,7 @@
     "key": "death"
   },
   {
-    "description": "The dragon attacked you with its fiery breath and tried to burn you to a crisp  But luckly, you were able to put yourself out and run away. The troll way caught in the chaos, so it seemed that the dragon's anger worked in your favor. As you run up the tower, a door seems to block you from entering the wizard's chamber. It is locked up and the only way to unlock it is with a key, what shall you do?",
+    "description": "The dragon attacked you with its fiery breath and tried to burn you to a crisp  But luckly, you were able to put yourself out and run away. The troll was caught in the chaos, so it seemed that the dragon's anger worked in your favor. As you run up the tower, a door seems to block you from entering the wizard's chamber. It is locked up and the only way to unlock it is with a key, what shall you do?",
     "optionA": "Look for a key",
     "optionA_even": 1,
     "optionA_odd": 2,

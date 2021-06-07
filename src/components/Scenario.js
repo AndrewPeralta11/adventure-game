@@ -40,7 +40,6 @@ function Scenario() {
       let oddoption = `option${optionPicked}_odd`;
       setsceneNumber(data[sceneNumber][oddoption]);
     }
-    console.log(rollNum);
   }
   return (
     <div className="container">
