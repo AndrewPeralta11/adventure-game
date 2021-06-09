@@ -6,30 +6,31 @@
     "optionA_odd": 2,
     "optionB": "Flee for the cave",
     "optionB_even": 1,
-    "optionB_odd": 4,
-    "image": "https://lh3.googleusercontent.com/zZY8qZZAClGsLHlCtRyFT5CoLk9xjUuSlRJAC8qSOEt4lryl-tjlL0dLS8g2FPQJj81FBD7zoI1L7h3R9W_k1hSCCR5PFZ444Hid68t22ggJN5KC2Fnp_AI32WODp56ove6EnhkAbQ=w2400"
+    "optionB_odd": 3,
+    "image": "https://lh3.googleusercontent.com/zZY8qZZAClGsLHlCtRyFT5CoLk9xjUuSlRJAC8qSOEt4lryl-tjlL0dLS8g2FPQJj81FBD7zoI1L7h3R9W_k1hSCCR5PFZ444Hid68t22ggJN5KC2Fnp_AI32WODp56ove6EnhkAbQ=w2400",
+    "key": 0
   },
   {
     "description": "You tried to fight the troll, but he just seemed too strong. But as you were fighting, you found an opening between his legs and ran into the spire. A chase began between you and the giant troll. Little did you know that behind him was an old dragon, chained up and sleeping in the spire. Will you try and seek the dragon's aid in despiration or continue to run from the Giant troll?",
     "optionA": "Seek aid from the dragon",
-    "optionA_even": 1,
-    "optionA_odd": 2,
+    "optionA_even": 4,
+    "optionA_odd": 5,
     "optionB": "Continue to run",
-    "optionB_even": 4,
-    "optionB_odd": 2,
-    "image": "https://hatrabbits.com/wp-content/uploads/2016/04/illustratie-giraf.jpg",
-    "key": ""
+    "optionB_even": 6,
+    "optionB_odd": 3,
+    "image": "https://ichef.bbci.co.uk/news/1024/media/images/79688000/jpg/_79688795_spookycastle.jpg",
+    "key": 1
   },
   {
     "description": "After defeating the Giant Troll, you ripped out the dragon's claw from within, and placed it in you bag. Moving along through the spire, your eyes catch a dragon sleeping within a cage, locked. The dragon awakens and tells you that he was trapped here by the wizard and needs his claw of power back to escape. Will you help the dragon or leave them here to rot?",
     "optionA": "Help the Dragon",
-    "optionA_even": 1,
-    "optionA_odd": 2,
+    "optionA_even": 5,
+    "optionA_odd": 4,
     "optionB": "Continue along your journey",
-    "optionB_even": 1,
-    "optionB_odd": 2,
-    "image": "https://hatrabbits.com/wp-content/uploads/2016/04/illustratie-giraf.jpg",
-    "key": "optionA_2"
+    "optionB_even": 5,
+    "optionB_odd": 3,
+    "image": "https://ichef.bbci.co.uk/news/1024/media/images/79688000/jpg/_79688795_spookycastle.jpg",
+    "key": 2
   },
   {
     "description": "You have died, test your luck and try again to reach your family",
@@ -37,34 +38,92 @@
     "optionA_even": 0,
     "optionA_odd": 0,
     "image": "https://media.giphy.com/media/TbONGqAdpTWQW3Hz5V/giphy.gif",
-    "key": "death"
+    "key": 3
   },
   {
     "description": "The dragon attacked you with its fiery breath and tried to burn you to a crisp  But luckly, you were able to put yourself out and run away. The troll was caught in the chaos, so it seemed that the dragon's anger worked in your favor. As you run up the tower, a door seems to block you from entering the wizard's chamber. It is locked up and the only way to unlock it is with a key, what shall you do?",
     "optionA": "Look for a key",
-    "optionA_even": 1,
-    "optionA_odd": 2,
+    "optionA_even": 9,
+    "optionA_odd": 13,
     "optionB": "Break down the door",
-    "optionB_even": 1,
-    "optionB_odd": 4,
-    "image": "https://hatrabbits.com/wp-content/uploads/2016/04/illustratie-giraf.jpg"
+    "optionB_even": 9,
+    "optionB_odd": 3,
+    "image": "https://ichef.bbci.co.uk/news/1024/media/images/79688000/jpg/_79688795_spookycastle.jpg",
+    "key": 4
   },
   {
     "description": "The dragon looks at you and determines you are worthy. It burns the troll to a crisp and flies you to top of the tower. There you face the wizard Ganjudor as he looks towards you with a smile on his face. \"So, you released my brother from his cage, and you, brother, will fight along his side?\", yells Ganjudor. \"Yes, brother\" speaks the dragon, \"they will defeat you with me by their side and release this curse you have put upon me.\" As you prepare for battle you can see your family trapped in another cage, looking at you, hoping that you will win. You think to yourself, \"I will get them back!\" ",
     "optionA": "Let the battle comence!",
-    "optionA_even": 1,
-    "optionA_odd": 2,
-    "image": "https://hatrabbits.com/wp-content/uploads/2016/04/illustratie-giraf.jpg",
-    "key": "battle"
+    "optionA_even": 7,
+    "optionA_odd": 7,
+    "image": "https://ichef.bbci.co.uk/news/1024/media/images/79688000/jpg/_79688795_spookycastle.jpg",
+    "key": 5
   },
   {
     "description": "You didn't think it possible, but you were able to run from everything and merely survived the onsldaught that occured. After all of that running, you felt exhuasted and could barely stand. You think to yourself how can you continue, and with that thought a fairy appears before you and comes to you with a deal. The fairy explains, \"My name is Apate, and I would like to aid you in your quest. In order for me to do so I would need some of your sweat in order to help your cause.\" What will you do?",
     "optionA": "Give the fairy your sweat",
-    "optionA_even": 1,
-    "optionA_odd": 2,
+    "optionA_even": 11,
+    "optionA_odd": 3,
     "optionB": "Refuse",
-    "optionB_even": 1,
-    "optionB_odd": 4,
-    "image": "https://hatrabbits.com/wp-content/uploads/2016/04/illustratie-giraf.jpg"
+    "optionB_even": 11,
+    "optionB_odd": 11,
+    "image": "https://ichef.bbci.co.uk/news/1024/media/images/79688000/jpg/_79688795_spookycastle.jpg",
+    "key": 6
+  },
+  {
+    "description": "You and the dragon fly towards Ganjudor as he prepares a powerful spell. He cast the spell and yells at you, \"This is end for you both!.\" This spell was a giant ball of electricity sent at you and the dragon. As it hurls towards you the dragon smacks the ball with its hand and a volley began between the brothers. The dragons tells you that you need to take the sword out from the tail of the dragon and thrust it through the wizard. So you rush for the tail and grab the sword from out of the tail, and with the sword you run up the dragon and jump at Ganjudor. Ganjudor looks at you in despair and cries out \"NOOO!\", you and the ball of lighting hurl towards him.",
+    "optionA": "Continue",
+    "optionA_even": 8,
+    "optionA_odd": 8,
+    "image": "https://ichef.bbci.co.uk/news/1024/media/images/79688000/jpg/_79688795_spookycastle.jpg",
+    "key": 7
+  },
+  {
+    "description": "With no way of stopping the both of you and the ball of lighting, he cast another spell and disappears from the tower. You crash on the floor and the lighting strikes the cage trapping your family, destroying it. You reunite with your family and thank the gods that they are still alive. The dragon turns back into a wizard and flies towards you. He thanks you, but while you all celebrate, you think to yourself, \"This isn't the end, Ganjudor is still out there.\" But you feel as though that is for another day. Fin.",
+    "optionA": "Play Again?",
+    "optionA_even": 0,
+    "optionA_odd": 0,
+    "image": "https://ichef.bbci.co.uk/news/1024/media/images/79688000/jpg/_79688795_spookycastle.jpg",
+    "key": 8
+  },
+  {
+    "description": "You burst through the door and prepare yourself for battle. As you charge in, Ganjudor stands before you, smiling and laughing at your condition. He exclaims, \"You came here to fight me in THAT condition? You just want to die, don't you?\" You stare at him with the full intent of beating him right here and now. So you charge up your weapon and swing, full force, at him. He dodges and begins to charge up a spell, dust flying all around him. The immense amount of power coming from the spell made you look up at Ganjudor in despair. You think to yourself, this is the end for you, but then your family calls out to you.",
+    "optionA": "Continue",
+    "optionA_even": 10,
+    "optionA_odd": 10,
+    "image": "https://ichef.bbci.co.uk/news/1024/media/images/79688000/jpg/_79688795_spookycastle.jpg",
+    "key": 9
+  },
+  {
+    "description": " You look around and spot them in a cage, they scream out to you, \"Do not doubt yourself, you made it this far, you can do this!\" With those words of encouragement, you grip your weapon stronger than ever before, raise it, and jump at him at with more power than you have ever experience before. You go and swing at him one last time while he yells at you, \"This will be your undoing!\" A giant explosion happened, dust flies everywhere with the impact being the greatest source. As the dust settles, a shadowy figure appears before your family. It was you! You won the battle, and you rescued your family. Fin.",
+    "optionA": "Play Again?",
+    "optionA_even": 0,
+    "optionA_odd": 0,
+    "image": "https://ichef.bbci.co.uk/news/1024/media/images/79688000/jpg/_79688795_spookycastle.jpg",
+    "key": 10
+  },
+  {
+    "description": "Apate disappears from your sight in dust, and as the dust covers you, all you see is red, and then black. You lost consciousness and cannot remember anything that happened. As you regain sight and thought, you see that in your clutchs is Ganjudor, frighten and in miserable condition. He shrieks at the top of his lungs, \"Please do not kill me, I'm sorry for kidnapping your family, just please have mercy!\" You look at him in disgust, apologizing after everything he made you go through. You felt your weapon in your hand, and prepared to take his life away. But as you raise your weapon, you hear a familiar voice behind you.",
+    "optionA": "Continue",
+    "optionA_even": 12,
+    "optionA_odd": 12,
+    "image": "https://ichef.bbci.co.uk/news/1024/media/images/79688000/jpg/_79688795_spookycastle.jpg",
+    "key": 11
+  },
+  {
+    "description": "It was your child, they yell at you to stop, \"It's not right, you already won, let him live, please.\" You look at your child, shaking in fear of what you have become. You curse that damn fairy and let Ganjudor go. He disappears in an instant, thinking to yourself that will be the end of that, never again will he bother you. You walk to your family, tears in your eyes as you promise to never show them the amount of violence they have witnessed ever again. Fin",
+    "optionA": "Play Again?",
+    "optionA_even": 0,
+    "optionA_odd": 0,
+    "image": "https://ichef.bbci.co.uk/news/1024/media/images/79688000/jpg/_79688795_spookycastle.jpg",
+    "key": 12
+  },
+  {
+    "description": "You've lost track of time, you have gone insane. You cant remember the last time you have contact with another intellegent lifeform. You are trapped in an everlooping room, and have been for the past several years, but you wouldn't know. All you know is how to breathe, everything else that doesn't come to you as second nature has been forgotten. You have stopped walking ages ago. You have given up, all that ever comes to your mind now is \"why\". Fin",
+    "optionA": "Play Again?",
+    "optionA_even": 0,
+    "optionA_odd": 0,
+    "image": "https://ichef.bbci.co.uk/news/1024/media/images/79688000/jpg/_79688795_spookycastle.jpg",
+    "key": 13
   }
 ]
